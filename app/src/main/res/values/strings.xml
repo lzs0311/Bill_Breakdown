@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bill Break-Down</string>
+    <string name="equal">Equal</string>
+    <string name="custom">Custom</string>
+    <string name="equal_bd">Equal Break-Down</string>
+    <string name="custom_bd">Custom Break Down</string>
+    <string name="ta">Total Amount</string>
+    <string name="np">Number of people</string>
+    <string name="submit">Submit</string>
+    <string name="tab">"Total bill amount "</string>
+    <string name="numperson">Number of people</string>
+    <string name="result">Result</string>
+    <string name="p">Percentage</string>
+    <string name="amount">Amount</string>
+    <string name="name">Name</string>
+    <string name="r">Ratio</string>
+    <string name="unknown">Unknown</string>
+    <string name="et_1">Enter percentage in %</string>
+    <string name="et_2">Enter ratio</string>
+    <string name="et_3">Enter amount</string>
+    <string name="back">Back to home</string>
+    <string name="share">Share result</string>
+</resources>

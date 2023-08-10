@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">账单明细</string>
+    <string name="equal">平分</string>
+    <string name="custom">自定义</string>
+    <string name="equal_bd">均等分摊</string>
+    <string name="custom_bd">定制化分项</string>
+    <string name="ta">总金额</string>
+    <string name="np">总人数</string>
+    <string name="submit">提交</string>
+    <string name="tab">账单总金额</string>
+    <string name="numperson">总人数</string>
+    <string name="result">结果</string>
+    <string name="p">百分比</string>
+    <string name="amount">金额</string>
+    <string name="name">名字</string>
+    <string name="r">比例</string>
+    <string name="unknown">未知</string>
+    <string name="et_1">请以百分比输入</string>
+    <string name="et_2">请输入百分比</string>
+    <string name="et_3">请输入金额</string>
+    <string name="back">返回主页</string>
+    <string name="share">分享结果</string>
+</resources>
